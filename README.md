@@ -1,2 +1,2 @@
 # testrepo
-this is a tets
+this is a teest
